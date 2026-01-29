@@ -79,3 +79,55 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+
+
+
+## Additional Project Management Personas
+
+### Project Sponsor
+**Responsibilities**
+- Provides strategic direction and funding approval
+- Resolves escalations and priority conflicts
+
+**Interactions**
+- Works with Project Manager on roadmap and priorities
+
+---
+
+### Delivery Manager
+**Responsibilities**
+- Owns delivery timelines and cross-team coordination
+- Tracks dependencies and removes blockers
+
+**Interactions**
+- Collaborates with Technical Lead and Project Manager
+
+---
+
+### Technical Lead
+**Responsibilities**
+- Defines technical architecture and standards
+- Reviews key design decisions
+
+**Interactions**
+- Partners with Delivery Manager and Engineering teams
+
+---
+
+### Documentation Owner
+**Responsibilities**
+- Ensures documentation accuracy and consistency
+- Coordinates documentation updates across teams
+
+**Interactions**
+- Works with all personas
+
+---
+
+### Quality & Risk Manager
+**Responsibilities**
+- Identifies risks and defines mitigation plans
+- Establishes quality gates and acceptance criteria
+
+**Interactions**
+- Supports Project and Delivery Managers
